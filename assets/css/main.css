@@ -374,7 +374,10 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
-
+.center {
+	margin: 0 auto;
+	text-align: center;
+}
 /* Box Model */
 
 	*, *:before, *:after {
@@ -494,6 +497,7 @@
 	border: 5px solid #0c2635;
 	margin-left: auto;
 	margin-right: auto;
+	min-width: 400px;
 }
 .board td {
 	padding-right: 15px;
@@ -553,9 +557,17 @@ vertical-align: middle;
 	width: 100%;
 	height: 100%;
 }
+.videoWrapper img {
+	position: absolute;
+	margin: 0 auto;
+	height: 100%;
+}
+.news img {
+	width: 80%;
+}
 /*Seminars*/
 
-.seminars div {
+.seminars div
 	text-align: center;
 }
 .seminars .info {
@@ -576,6 +588,7 @@ vertical-align: middle;
 
 .table-container-outer {
 	position: relative;
+	padding-bottom: 20px;
 }
 
 .table-container-fade {
@@ -2981,6 +2994,7 @@ vertical-align: middle;
 		color: #f2f2f2;
 		max-height: 800px;
 		text-align: left;
+		padding-top: 10px;
 	}
 
 		#footer a {
@@ -3168,6 +3182,9 @@ vertical-align: middle;
 			.videoWrapper {
 				width: 100%;
 			}
+		.news img {
+			width: 100%;
+		}
 
 		/* Basic */
 
