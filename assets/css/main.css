@@ -497,13 +497,14 @@
 	border: 5px solid #0c2635;
 	margin-left: auto;
 	margin-right: auto;
-	min-width: 400px;
+
 }
 .board td {
 	padding-right: 15px;
 	padding-left: 15px;
 	padding-top: 15px;
 	padding-bottom: 15px;
+	min-width: 400px;
 }
 .board #photo {
 	width: 30%
@@ -567,7 +568,7 @@ vertical-align: middle;
 }
 /*Seminars*/
 
-.seminars div
+.seminars div {
 	text-align: center;
 }
 .seminars .info {
@@ -580,6 +581,7 @@ vertical-align: middle;
 }
 .seminars table td {
 	text-align: center;
+	width: 30px;
 	border: 5px solid #0c2635;
 	margin-left: auto;
 	margin-right: auto;
@@ -588,7 +590,6 @@ vertical-align: middle;
 
 .table-container-outer {
 	position: relative;
-	padding-bottom: 20px;
 }
 
 .table-container-fade {
