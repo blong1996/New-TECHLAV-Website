@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0834d3e3-87a6-4a0d-a6de-874f0c8afacc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/Fall 2015/091115 Dr. Yi Abstract.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/Fall 2015/092515 Dr. Stepehens Abstract.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/Fall 2015/092515 Dr. Stephens Abstract.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/Fall 2015/100915 Dr. Prevost abstract talk.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/Fall 2015/102315, Nima Namvar Abstract.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/Presentation 08 July.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/Spring 2016/TECHLAV-Seminar-Laya-March18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/TECHLAV- Seminar-form- Mohan.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/TECHLAV- Seminar-form- Shamgah.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Abstracts/TECHLAV-Seminar-Karimi-Dec18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Allen-Prince-TECHLAV-Presentation.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Amsalu-techlav-presentation.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Laya_techlav presentation2.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Learning DFSM with Lstar_Techlav Pres (3).pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Niloofar Techlav presenation.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/TECHLAV__Stephens.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Techlav Patrick5_27_15Design of a Home Multi-Robot System for the Elderly and Disabled.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Techlav_Nima_Presentation.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Techlav_Presentation_Mohan6_10_15.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Techlav_Presentation_Prevost.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentations/Techlav_Presentation_Shamghah6_24_15.pptx" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Abstracts/Fall 2015/091115 Dr. Yi Abstract.pdf" afterPath="$PROJECT_DIR$/Abstracts/Fall 2015/091115 Dr. Yi Abstract.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Abstracts/Fall 2015/092515 Dr. Stephens Abstract.pdf" afterPath="$PROJECT_DIR$/Abstracts/Fall 2015/092515 Dr. Stephens Abstract.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/seminars.html" afterPath="$PROJECT_DIR$/seminars.html" />
-    </list>
+    <list default="true" id="0834d3e3-87a6-4a0d-a6de-874f0c8afacc" name="Default" comment="" />
     <ignored path="New-TECHLAV-Website.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -133,7 +106,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="697" />
+    <option name="height" value="712" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -665,7 +638,7 @@
     <option name="totallyTimeSpent" value="16111000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="697" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="712" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
