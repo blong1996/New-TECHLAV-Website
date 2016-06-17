@@ -535,6 +535,18 @@ vertical-align: middle;
 	margin-right: auto;
 }
 
+/* Annual Seminar */
+.annual table td {
+	border: 5px solid #0c2635;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
 /* News */
 
 .news ul li{
